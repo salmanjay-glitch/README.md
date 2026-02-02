@@ -1,9 +1,9 @@
 print("
 print("Program Biodata Sederhana Dengan Python")
 print("")
-nama "Isi dengan Nama Kanu"
+
 hobi "main"
-alamat "Isi dengan kamu"
+alamat "Isi dengan kamu (tambahan)"
 kota "Isi dengan Kota kamu"
 print("Nama Lengkap nama)
 print("Alamat
